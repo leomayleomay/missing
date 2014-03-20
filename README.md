@@ -1,6 +1,6 @@
 # Missing
 
-TODO: Write a gem description
+Give you a hand on finding out all the missing routes in the config/routes.rb
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+In the rails console, run `Missing.find_undefined_routes` will give you a hash containing the controller and its missing routes
 
 ## Contributing
 
